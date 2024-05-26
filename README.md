@@ -56,8 +56,8 @@ pip install google-api-python-client, mysql-connector-python, streamlit.
 
 #### SQL libraries
 
-import mysql.connector
+- import mysql.connector
 
 #### Dashboard libraries
 
-import streamlit as st
+- import streamlit as st
