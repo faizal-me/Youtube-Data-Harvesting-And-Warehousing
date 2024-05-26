@@ -12,7 +12,7 @@ the data lake by clicking a button.
 3. Option to store the data in a MYSQL or PostgreSQL.
 4. Ability to search and retrieve data from the SQL database using different
 search options, including joining tables to get channel details.
-Approach:
+#Approach:
 1. Set up a Streamlit app: Streamlit is a great choice for building data
 visualization and analysis tools quickly and easily. You can use Streamlit to
 create a simple UI where users can enter a YouTube channel ID, view the
