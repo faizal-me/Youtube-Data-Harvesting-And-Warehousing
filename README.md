@@ -40,24 +40,23 @@ the YouTube API, storing the data SQL as a warehouse, querying the data warehous
 with SQL, and displaying the data in the Streamlit app.
 
 ## Developer Guide
-1.Tools Install
+### 1.Tools Install
 Virtual code.
 Python 3.11.0 or higher.
 MySQL.
 Youtube API key.
-2. Requirement Libraries to Install
+### 2.Requirement Libraries to Install
 pip install google-api-python-client, mysql-connector-python, streamlit.
 
-3. Import Libraries
-Youtube API libraries
-
+### 3.Import Libraries
+#### Youtube API libraries
 import googleapiclient.discovery
 from googleapiclient.discovery import build
 
-SQL libraries
+## SQL libraries
 
 import mysql.connector
 
-Dashboard libraries
+## Dashboard libraries
 
 import streamlit as st
