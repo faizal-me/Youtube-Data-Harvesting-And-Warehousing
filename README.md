@@ -40,7 +40,7 @@ the YouTube API, storing the data SQL as a warehouse, querying the data warehous
 with SQL, and displaying the data in the Streamlit app.
 
 ## Developer Guide
-### 1.Tools Install
+### 1.Technologies Used:
 - Virtual code.
 * Python 3.11.0 or higher.
 + MySQL.
