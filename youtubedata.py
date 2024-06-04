@@ -235,7 +235,7 @@ def main():
     if st.button("Extract Data"):
         st.write("Data extracted successfully.")
 
-    # Button to migrate data to SQL
+    # Button to store data to SQL
     if st.button("Store to SQL"):
         store_to_sql(channel_id)
       
